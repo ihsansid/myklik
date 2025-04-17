@@ -1,4 +1,4 @@
-const cacheName = 'my-pwa-cache-v2'; // Ganti versi tiap update
+const cacheName = 'my-pwa-cache-v3'; // Ganti versi tiap update
 const assetsToCache = [
   '/',
   '/index.html',
